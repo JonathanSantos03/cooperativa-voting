@@ -1,13 +1,13 @@
-package com.cooperativa.voting;
+package com.cooperativa.voting.cooperativa_voting;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootApplication
-public class CooperativaVotingApplication {
+@SpringBootTest
+class CooperativaVotingApplicationTests {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CooperativaVotingApplication.class, args);
+	@Test
+	void contextLoads() {
 	}
 
 }

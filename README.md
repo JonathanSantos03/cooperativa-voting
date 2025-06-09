@@ -52,7 +52,7 @@ Antes de começar, garanta que você tenha instalado em sua máquina:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/drahcir777/cooperativa-voting.git
+git clone https://github.com/JonathanSantos03/cooperativa-voting.git
 cd cooperativa-voting
 ```
 
